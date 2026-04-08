@@ -24,4 +24,3 @@ scapy
 emailfinder
 nmap
 fabric
-pikepdf tqdm
